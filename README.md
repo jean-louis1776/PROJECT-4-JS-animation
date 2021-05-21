@@ -1,1 +1,2 @@
-PROJECT-4-JS-animation
+### PROJECT-4-JS-animation
+Parallax animation with AnimeJS
